@@ -1,1 +1,1 @@
-![cerinte]("./cerinte.png")
+![cerinte]("https://github.com/vasilenicolae19/proiect-paw/blob/main/cerinte.png")
